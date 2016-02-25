@@ -8,7 +8,7 @@ int main()
     scanf("%f %f %f", &a, &b, &c);
     D = (b * b) - (4 * a * c);
     D = sqrt(D);
-    if (D >= 0);
+    if (D >= 0)
     D = sqrt(D);
     else {
     printf("The discriminant is 0, no roots\n");
